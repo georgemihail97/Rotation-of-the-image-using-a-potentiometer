@@ -1,0 +1,39 @@
+c:\users\admin\documents\visual studio 2015\Projects\laborator5_potentiometru\laborator5_potentiometru\bin\Debug\laborator5_potentiometru.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\laborator5_potentiometru\laborator5_potentiometru\bin\Debug\laborator5_potentiometru.exe
+c:\users\admin\documents\visual studio 2015\Projects\laborator5_potentiometru\laborator5_potentiometru\bin\Debug\laborator5_potentiometru.pdb
+c:\users\admin\documents\visual studio 2015\Projects\laborator5_potentiometru\laborator5_potentiometru\obj\Debug\laborator5_potentiometru.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\laborator5_potentiometru\laborator5_potentiometru\obj\Debug\laborator5_potentiometru.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\laborator5_potentiometru\laborator5_potentiometru\obj\Debug\laborator5_potentiometru.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\laborator5_potentiometru\laborator5_potentiometru\obj\Debug\laborator5_potentiometru.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\laborator5_potentiometru\laborator5_potentiometru\obj\Debug\laborator5_potentiometru.exe
+c:\users\admin\documents\visual studio 2015\Projects\laborator5_potentiometru\laborator5_potentiometru\obj\Debug\laborator5_potentiometru.pdb
+D:\work\IDP_CURS3\laborator5_potentiometru\laborator5_potentiometru\bin\Debug\laborator5_potentiometru.exe.config
+D:\work\IDP_CURS3\laborator5_potentiometru\laborator5_potentiometru\bin\Debug\laborator5_potentiometru.exe
+D:\work\IDP_CURS3\laborator5_potentiometru\laborator5_potentiometru\bin\Debug\laborator5_potentiometru.pdb
+D:\work\IDP_CURS3\laborator5_potentiometru\laborator5_potentiometru\obj\Debug\laborator5_potentiometru.csprojAssemblyReference.cache
+D:\work\IDP_CURS3\laborator5_potentiometru\laborator5_potentiometru\obj\Debug\laborator5_potentiometru.Form1.resources
+D:\work\IDP_CURS3\laborator5_potentiometru\laborator5_potentiometru\obj\Debug\laborator5_potentiometru.Properties.Resources.resources
+D:\work\IDP_CURS3\laborator5_potentiometru\laborator5_potentiometru\obj\Debug\laborator5_potentiometru.csproj.GenerateResource.cache
+D:\work\IDP_CURS3\laborator5_potentiometru\laborator5_potentiometru\obj\Debug\laborator5_potentiometru.csproj.CoreCompileInputs.cache
+D:\work\IDP_CURS3\laborator5_potentiometru\laborator5_potentiometru\obj\Debug\laborator5_potentiometru.exe
+D:\work\IDP_CURS3\laborator5_potentiometru\laborator5_potentiometru\obj\Debug\laborator5_potentiometru.pdb
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\laborator5_potentiometru\laborator5_potentiometru\bin\Debug\laborator5_potentiometru.exe.config
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\laborator5_potentiometru\laborator5_potentiometru\bin\Debug\laborator5_potentiometru.exe
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\laborator5_potentiometru\laborator5_potentiometru\bin\Debug\laborator5_potentiometru.pdb
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\laborator5_potentiometru\laborator5_potentiometru\obj\Debug\laborator5_potentiometru.csprojAssemblyReference.cache
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\laborator5_potentiometru\laborator5_potentiometru\obj\Debug\laborator5_potentiometru.Form1.resources
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\laborator5_potentiometru\laborator5_potentiometru\obj\Debug\laborator5_potentiometru.Properties.Resources.resources
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\laborator5_potentiometru\laborator5_potentiometru\obj\Debug\laborator5_potentiometru.csproj.GenerateResource.cache
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\laborator5_potentiometru\laborator5_potentiometru\obj\Debug\laborator5_potentiometru.csproj.CoreCompileInputs.cache
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\laborator5_potentiometru\laborator5_potentiometru\obj\Debug\laborator5_potentiometru.exe
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\laborator5_potentiometru\laborator5_potentiometru\obj\Debug\laborator5_potentiometru.pdb
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\Sisteme de IO\Lab5-6-01_11_2019\laborator5_potentiometru\laborator5_potentiometru\bin\Debug\laborator5_potentiometru.exe.config
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\Sisteme de IO\Lab5-6-01_11_2019\laborator5_potentiometru\laborator5_potentiometru\bin\Debug\laborator5_potentiometru.exe
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\Sisteme de IO\Lab5-6-01_11_2019\laborator5_potentiometru\laborator5_potentiometru\bin\Debug\laborator5_potentiometru.pdb
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\Sisteme de IO\Lab5-6-01_11_2019\laborator5_potentiometru\laborator5_potentiometru\obj\Debug\laborator5_potentiometru.csprojAssemblyReference.cache
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\Sisteme de IO\Lab5-6-01_11_2019\laborator5_potentiometru\laborator5_potentiometru\obj\Debug\laborator5_potentiometru.Form1.resources
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\Sisteme de IO\Lab5-6-01_11_2019\laborator5_potentiometru\laborator5_potentiometru\obj\Debug\laborator5_potentiometru.Properties.Resources.resources
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\Sisteme de IO\Lab5-6-01_11_2019\laborator5_potentiometru\laborator5_potentiometru\obj\Debug\laborator5_potentiometru.csproj.GenerateResource.cache
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\Sisteme de IO\Lab5-6-01_11_2019\laborator5_potentiometru\laborator5_potentiometru\obj\Debug\laborator5_potentiometru.csproj.CoreCompileInputs.cache
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\Sisteme de IO\Lab5-6-01_11_2019\laborator5_potentiometru\laborator5_potentiometru\obj\Debug\laborator5_potentiometru.exe
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\Sisteme de IO\Lab5-6-01_11_2019\laborator5_potentiometru\laborator5_potentiometru\obj\Debug\laborator5_potentiometru.pdb
